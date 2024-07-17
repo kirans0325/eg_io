@@ -1,15 +1,16 @@
 # Site settings
-title: Hi, I'm Dominik.
-description: Dominik Haitz' professional portfolio site
+title: Hi, I'm Kiran.
+description: My professional portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Dominik Haitz
-user_title: Dr.
+username: Kiran Seepana
+user_title: Mr.
 user_job_title: Data Scientist
-email: dominik.haitz [at] gmx.de
-twitter_username: d_haitz
-github_username:  dhaitz
+user_job_title: Data Scientist
+email: kirans0325[at] gmail.com
+# twitter_username: d_haitz
+github_username:  kirans0325
 
 exclude: ['package.json', 'src' , 'node_modules']
